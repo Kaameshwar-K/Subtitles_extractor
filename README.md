@@ -6,7 +6,7 @@ A simple desktop application for Windows to easily extract subtitle tracks from 
 * Select a local video file.
 * Scans the file to find all available subtitle tracks.
 * Displays track information (language, title, codec).
-* Extract one or more subtitles and save them as `.srt`, `.ass`, or other formats.
+* Extract one or more subtitles and save them as `.srt` or other formats.
 
 ## How to Use
 
